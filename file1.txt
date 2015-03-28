@@ -1,2 +1,5 @@
 Nguyen Cong Duc
 Learn Python the hard way!
+Nguyen Cong Minh
+Python
+Python

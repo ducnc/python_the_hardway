@@ -1,2 +1,35 @@
-Nguyen Cong Duc
-Learn Python the hard way!
+Dem so luong tu co trong file1.txt
+  - Tu 'Minh' xuat hien 1 lan.
+  - Tu 'hard' xuat hien 1 lan.
+  - Tu 'Python' xuat hien 3 lan.
+  - Tu 'Duc' xuat hien 1 lan.
+  - Tu 'Nguyen' xuat hien 2 lan.
+  - Tu 'Learn' xuat hien 1 lan.
+  - Tu 'the' xuat hien 1 lan.
+  - Tu 'way!' xuat hien 1 lan.
+  - Tu 'Cong' xuat hien 2 lan.
+
+Dem so luong ky tu co trong file1.txt
+  - Ky tu 'Enter' xuat hien 4 lan.
+  - Ky tu '!' xuat hien 1 lan.
+  - Ky tu ' ' xuat hien 8 lan.
+  - Ky tu 'C' xuat hien 2 lan.
+  - Ky tu 'D' xuat hien 1 lan.
+  - Ky tu 'M' xuat hien 1 lan.
+  - Ky tu 'L' xuat hien 1 lan.
+  - Ky tu 'N' xuat hien 2 lan.
+  - Ky tu 'P' xuat hien 3 lan.
+  - Ky tu 'a' xuat hien 3 lan.
+  - Ky tu 'c' xuat hien 1 lan.
+  - Ky tu 'e' xuat hien 4 lan.
+  - Ky tu 'd' xuat hien 1 lan.
+  - Ky tu 'g' xuat hien 4 lan.
+  - Ky tu 'i' xuat hien 1 lan.
+  - Ky tu 'h' xuat hien 6 lan.
+  - Ky tu 'o' xuat hien 5 lan.
+  - Ky tu 'n' xuat hien 9 lan.
+  - Ky tu 'r' xuat hien 2 lan.
+  - Ky tu 'u' xuat hien 3 lan.
+  - Ky tu 't' xuat hien 4 lan.
+  - Ky tu 'w' xuat hien 1 lan.
+  - Ky tu 'y' xuat hien 6 lan.
