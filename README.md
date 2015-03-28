@@ -1,0 +1,2 @@
+# python_the_hardway
+Tổng hợp các chương trình được soạn thảo khi đọc cuốn Learn Python The Hardway 
